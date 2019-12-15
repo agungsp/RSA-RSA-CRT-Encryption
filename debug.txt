@@ -1,0 +1,9 @@
+"P" adalah bilangan prima yang ditentukan acak
+ P = 19
+
+"Q" adalah bilangan prima yang ditentukan acak
+ Q = 89
+
+"N" diperoleh dari P-Q
+19-89 = 1691
+
